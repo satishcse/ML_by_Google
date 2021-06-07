@@ -1,2 +1,2 @@
-# tesing_numpy
+# testing_numpy
 checking some basics on numpy
